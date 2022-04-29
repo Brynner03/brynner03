@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://www.linkedin.com/in/brynner-ventura/)
+[![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://www.linkedin.com/in/brynner-ventura/)
 
 <h1 align="center">Hi 👋, I'm Brynner</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer!</h3>

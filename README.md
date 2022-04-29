@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brynner</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer!</h3>
-(img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen")
+<img align="right" alt="Coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC/fullscreen" />
 
 
 - 🔭 I’m currently working on **my personal portfolio. Come back in a few when it's all ready, to learn more about what I can do!**

@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7Ak4WynwLsM...)](https://www.linkedin.com/in/brynner-ventura/)
+![MasterHead](https://media0.giphy.com/media/mTPjPA6SSXgTsnZ1Dh/giphy.gif?cid=ecf05e47i838zrsuaq27aydjmdl3llwj6u3i1yo2bquagyef&rid=giphy.gif&ct=g)](https://www.linkedin.com/in/brynner-ventura/)
 
 <h1 align="center">Hi 👋, I'm Brynner</h1>
 <h3 align="center">A passionate Full-Stack Software Engineer!</h3>

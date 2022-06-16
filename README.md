@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms, to pass your technical interview!**
 
-- 🌱 I’m currently learning **Python, and Django!**
+- 🌱 I’m currently learning **Redux!**
 
 - 💬 Ask me about **React, MERN, PERN, and any questions you may have!**
 

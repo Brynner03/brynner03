@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms, they are a fun challenge!**
 
-- 🌱 I’m currently learning **Redux!**
+- 🌱 I’m currently learning **Swift, Kotlin, and Agile!**
 
 - 💬 Ask me about **React, MERN, PERN, and any questions you may have!**
 

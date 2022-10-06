@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms, they are a fun challenge!**
 
-- 🌱 I’m currently learning **Swift, Kotlin, and Agile!**
+- 🌱 I’m currently learning **Swift, and Kotlin!**
 
-- 💬 Ask me about **React, MERN, PERN, and any questions you may have!**
+- 💬 Ask me about **Music, traveling, and cars!**
 
 - 📫 How to reach me **nerbryn99@gmail.com**
 

@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Data Structures and Algorithms, they are a fun challenge!**
 
-- 🌱 I’m currently learning **Swift, and Kotlin!**
+- 🌱 I’m currently learning **Swift, and C++!**
 
 - 💬 Ask me about **Music, traveling, and cars!**
 

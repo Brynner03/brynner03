@@ -1,6 +1,6 @@
 [![MasterHead](https://email.uplers.com/blog/wp-content/uploads/2020/07/GIF-blog.gif)](https://www.linkedin.com/in/brynner-ventura/)
 
-<h1 align="center">Hi 👋, I'm Brynner</h1> <h3 align="center">Software Engineering Coach | Passionate about Learning and Teaching</h3> <img align="right" alt="Coding" width="400" src="[https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)" />
+<h1 align="center">Hi 👋, I'm Brynner</h1> <h3 align="center">Software Engineering Coach | Passionate about Learning and Teaching</h3> <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 🔭 I’m currently a Software Engineering Coach, guiding developers through their journey with 2 years of hands-on experience.
 🌱 I’m currently learning React to strengthen my front-end development expertise.
 💬 Ask me about problem-solving, coding best practices, and career development.
